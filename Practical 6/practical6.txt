@@ -1,0 +1,2 @@
+Work you way through the story generator exercise
+https://github.com/scharlau/story_generator_p 

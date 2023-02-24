@@ -1,0 +1,8 @@
+This exercise explores how to develop a shopping website with multiple tables to hold your data, 
+and to ensure that the components work together. 
+This application gives you some starter code for the basics, 
+so that you have something to work with in the exercise. 
+As you’ll see some parts are broken, and need some work in order to display the correct values. 
+Work through the exercise at 
+https://github.com/scharlau/shopping_exercise_p 
+and see how larger applications work. 
